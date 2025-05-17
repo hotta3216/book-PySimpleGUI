@@ -1,4 +1,4 @@
-# 1_name_app_pysimplegui.py
+# 1_name_app_freesimplegui.py
 import FreeSimpleGUI as sg
 
 layout = [
